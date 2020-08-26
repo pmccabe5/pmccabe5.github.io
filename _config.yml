@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Patrick McCabe
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: College of Charleston Class of 2021
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mccabepj@g.cofc.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: pmccabe5
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/patrick-mccabe-b4980314a/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
