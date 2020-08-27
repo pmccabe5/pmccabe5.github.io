@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-# Some information about you!
+# About Me
 
-## More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+## Patrick McCabe 
+* Year: Senior
+* Major: Computer Science
+* Minor(s): Data Science, History
+* Email: mccabepj@g.cofc.edu
+* [LinkedIn](https://www.linkedin.com/in/patrick-mccabe-b4980314a/)
+* [Github](https://github.com/pmccabe5)
 
 ## Contact me
 
