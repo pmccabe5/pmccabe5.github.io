@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
-## Patrick McCabe 
+# Patrick McCabe 
 * Year: Senior
 * Major: Computer Science
 * Minor(s): Data Science, History
