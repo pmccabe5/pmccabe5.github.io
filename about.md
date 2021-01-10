@@ -8,10 +8,11 @@ permalink: /about/
 * Year: Senior
 * Major: Computer Science
 * Minor(s): Data Science, History
-* Email: mccabepj@g.cofc.edu
 * [LinkedIn](https://www.linkedin.com/in/patrick-mccabe-b4980314a/)
 * [Github](https://github.com/pmccabe5)
 
 ## Contact me
 
 [Email](mailto:mccabepj@g.cofc.edu)
+
+[Phone](732-788-5730)
