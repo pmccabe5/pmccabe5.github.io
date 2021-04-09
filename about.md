@@ -15,7 +15,7 @@ permalink: /about/
 
 ## Education
 
-* [College of Charleston]
+* [College of Charleston](https://compsci.cofc.edu/)
 * Major: Computer Science
 * Minor(s): Data Science & History
 * Coursework:
