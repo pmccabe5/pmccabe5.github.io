@@ -17,7 +17,7 @@ permalink: /about/
 
 * [College of Charleston](https://compsci.cofc.edu/)
 * Major: Computer Science
-* Minor(s): Data Science & History
+* Minors: Data Science & History
 * Coursework:
     - Cyber Security Specific Coursework
         - Intro to Cyber Security
