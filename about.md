@@ -76,6 +76,9 @@ permalink: /about/
                 - Responsible for Red Hat email server administration
         - Palmetto Cyber Defense Competition ([PCDC](https://pcdc-sc.com/))
             - 2021 Main Team Member (Captain)
+                - Finished Second Overall
+                - Team MVP
+            - 2021 Main Team Member (Captain)
             - 2020 Main Team Member (Captain) (Cancelled due to COVID-19)
             - 2019 Main Team Member
             - 2018 Shadow Team member
