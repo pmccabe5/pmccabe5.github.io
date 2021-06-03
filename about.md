@@ -89,7 +89,7 @@ permalink: /about/
             - Captain: 2019
 
 ## Work Experience
-* Student IT Service Desk Worker for College of Charleston Charleston, SC January 2020 - Current
+* Service Desk Analyst for College of Charleston Charleston, SC January 2020 - Current
     - Use of Active Directory for verifying user data, resetting passwords, and adding users to Admin group on loaner devices
     - Solved problems that arise from users about specific services College of Charleston currently employs
     - Helped set up and give access to VPN users for remote instruction
