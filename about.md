@@ -32,7 +32,7 @@ permalink: /about/
         - Computing in Society
     - Data Science Coursework:
         - Intro to Data Science (Student Tutor)
-        - Data Set Organization and Management 
+        - Dataset Organization and Management 
         - Data Mining
 
 ## Computer and Network Security Experience
@@ -64,11 +64,11 @@ permalink: /about/
         - National Collegiate Cyber Defense Competition ([NCCDC](https://www.nationalccdc.org/))
             - 2021 Main Team Member (Captain, Responsible for Business Injects and Linux administration if needed)
         - Southeast Collegiate Cyber Defense Competition ([SECCDC](https://cyberinstitute.kennesaw.edu/seccdc/index.php)):
-            - 2021 Main Team Member (Captian, Responsible for Business Injects and Linux administration if needed):
+            - 2021 Main Team Member (Captain, Responsible for Business Injects and Linux administration if needed):
                 - **Won** SECCDC Region for the first time in school history
                 - Placed **Best in Business**
                 - Placed top 8 in the Qualification Round
-            - 2020 Main Team Member (Captian, Responsible for Business Injects and Linux administration if needed)
+            - 2020 Main Team Member (Captain, Responsible for Business Injects and Linux administration if needed)
                 - Placed **fourth overall**
                 - Placed top 8 in the region for the first time in 6 years
             - 2019 Main Team Member
@@ -88,6 +88,7 @@ permalink: /about/
             - Captain: 2019
 
 ## Work Experience
+
 * Service Desk Analyst for College of Charleston Charleston, SC January 2020 - Current
     - Use of Active Directory for verifying user data, resetting passwords, and adding users to Admin group on loaner devices
     - Solved problems that arise from users about specific services College of Charleston currently employs
