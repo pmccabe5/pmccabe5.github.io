@@ -32,7 +32,7 @@ permalink: /about/
         - Computing in Society
     - Data Science Coursework:
         - Intro to Data Science (Student Tutor)
-        - Dataset Organization and Management 
+        - Datas et Organization and Management 
         - Data Mining
 
 ## Computer and Network Security Experience
@@ -77,7 +77,6 @@ permalink: /about/
             - 2021 Main Team Member (Captain)
                 - Finished Second Overall
                 - Team MVP
-            - 2021 Main Team Member (Captain)
             - 2020 Main Team Member (Captain) (Cancelled due to COVID-19)
             - 2019 Main Team Member
             - 2018 Shadow Team member
