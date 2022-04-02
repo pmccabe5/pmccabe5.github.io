@@ -8,7 +8,6 @@ permalink: /about/
 
 ## Contact Me and Social Media
 * [Email](mailto:patrick.j.mccabe5@gmail.com)
-* Phone: **(732)-788-5730**
 * [LinkedIn](https://www.linkedin.com/in/patrick-mccabe-b4980314a/)
 * [GitHub](https://github.com/pmccabe5)
 * [Twitter](https://twitter.com/pmccabe_infosec)
